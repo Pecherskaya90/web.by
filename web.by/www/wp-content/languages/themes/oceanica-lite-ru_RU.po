@@ -1,0 +1,334 @@
+# Translation of Themes - Oceanica Lite in Russian
+# This file is distributed under the same license as the Themes - Oceanica Lite package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-11-24 14:49:56+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: ru\n"
+"Project-Id-Version: Themes - Oceanica Lite\n"
+
+#. Description of the plugin/theme
+msgid "Oceanica Lite is a clean-looking WordPress theme with a minimal design for your hotel business, travel blog or travel agency. The theme is fully responsive providing a great user experience for the owner of any device. The theme comes with a neat typography and imagery for uncluttered and attention-to-details blogging. Wide and grid layouts are available. If you are looking for a WordPress hotel business theme with a fully functional room reservation system (rates, seasons, services, real-time search availability form, online payments, etc.), check out Oceanica Hotel Booking theme on our website. It's fully integrated with our MotoPress Hotel Booking plugin letting you feature rooms listing in a beautiful way and enable instant paid bookings."
+msgstr "Oceanica Lite - это красивая WordPress тема с минималистичным дизайном для вашего гостиничного бизнеса, туристического блога или туристического агентства. Тема полностью адаптивна, обеспечивая удобную работу пользователя на любом устройстве. Тема идет с аккуратной типографикой и образами для незагроможденного и внимательного к деталям блоггинга. Доступны широкие и сетчатые шаблоны страниц. Если вы ищете бизнес-тему отеля WordPress с полностью функциональной системой бронирования номеров (тарифы, сезоны, услуги, форма поиска в режиме реального времени, онлайн-платежи и.т.д.), ознакомьтесь с темой Oceanica на нашем веб-сайте. Она полностью интегрирована с нашим плагином бронирования отеля MotoPress, позволяя вам показывать номера в прекрасном виде и включить режим мгновенной оплаты заказов."
+
+#. Theme Name of the plugin/theme
+msgid "Oceanica Lite"
+msgstr "Oceanica Lite"
+
+#: inc/template-tags.php:183
+msgid "previous"
+msgstr "предыдущяя"
+
+#: inc/customizer.php:170
+msgid "Button Hover Color"
+msgstr "Цвет кнопки при наведении"
+
+#: inc/customizer.php:158
+msgid "Link Color"
+msgstr "Цвет ссылки"
+
+#. Template Name of the plugin/theme
+msgid "Grid page with sidebar"
+msgstr "Страница в виде сетки с сайдбаром"
+
+#. Template Name of the plugin/theme
+msgid "Full width"
+msgstr "На всю ширину"
+
+#. Template Name of the plugin/theme
+msgid "Full width grid page"
+msgstr "На всю ширину в виде сетки"
+
+#. Template Name of the plugin/theme
+msgid "Front page"
+msgstr "Главная страница"
+
+#. translators: %s: Name of current post.
+#: template-parts/content-single.php:30 template-parts/content.php:20
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Продолжить читать %s <span class=\"meta-nav\">&rarr;</span>"
+
+#: template-parts/content-none.php:23
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Похоже мы не можем найти то что вы ищете. Возможно вам поможет поиск."
+
+#: template-parts/content-none.php:20
+msgid "Try again with some different keywords?"
+msgstr "Попробовать ещё раз с другим словом?"
+
+#: template-parts/content-none.php:18
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Готовы опубликовать вашу первую запись? <a href=\"%1$s\">Начать</a>."
+
+#: template-parts/content-none.php:13
+msgid "Nothing Found"
+msgstr "Ничего не найдено"
+
+#: template-parts/content-home.php:20
+#: template-parts/content-page-full-width.php:19
+#: template-parts/content-page.php:20 template-parts/content-single.php:35
+#: template-parts/content.php:24
+msgid "Pages:"
+msgstr "Страницы:"
+
+#: template-parts/biography.php:31
+msgid "All Posts by %s"
+msgstr "Все записи от %s"
+
+#: template-parts/biography.php:14
+msgid "Author:"
+msgstr "Автор:"
+
+#: searchform.php:17
+msgctxt "submit button"
+msgid "Search"
+msgstr "Поиск"
+
+#: searchform.php:13
+msgctxt "placeholder"
+msgid "Keywords"
+msgstr "Ключевые слова"
+
+#: searchform.php:11
+msgctxt "label"
+msgid "Search for:"
+msgstr "Искать:"
+
+#: search.php:15
+msgid "Search Results for: %s"
+msgstr "Результаты поиска для: %s"
+
+#: inc/template-tags.php:435
+msgid "Related Posts"
+msgstr "Похожие записи"
+
+#: inc/template-tags.php:352
+msgid "Read More"
+msgstr "Читать далее"
+
+#. translators: %s: Name of current post
+#: inc/template-tags.php:261
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr "Читать далее<span class=\"screen-reader-text\"> \"%s\"</span>"
+
+#: inc/template-tags.php:238
+msgctxt "Used before tag names."
+msgid "Tags"
+msgstr "Метки"
+
+#: inc/template-tags.php:237
+msgid "Tagged: "
+msgstr "Метки:"
+
+#: inc/template-tags.php:234
+msgctxt "Used between list items, there is a space."
+msgid " "
+msgstr " "
+
+#: inc/template-tags.php:198
+msgid "Page"
+msgstr "Страница"
+
+#: inc/template-tags.php:184
+msgid "Previous post:"
+msgstr "Предыдущаяя запись:"
+
+#: inc/template-tags.php:181
+msgid "Next post:"
+msgstr "Следующая запись:"
+
+#: inc/template-tags.php:180
+msgid "next"
+msgstr "следующая"
+
+#. translators: %s: Name of current post
+#: inc/template-tags.php:93 template-parts/content-home.php:27
+#: template-parts/content-page-full-width.php:26
+#: template-parts/content-page.php:27 template-parts/content-single.php:42
+#: template-parts/content.php:31
+msgid "Edit %s"
+msgstr "Редактировать %s"
+
+#. translators: %s: post title
+#: inc/template-tags.php:86
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr "Оставить комментарий<span class=\"screen-reader-text\"> для %s</span>"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:70
+msgid " in "
+msgstr " в "
+
+#: inc/template-tags.php:64
+msgid "Leave a comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr "Оставить комментарий<span class=\"screen-reader-text\"> для %s</span> "
+
+#: inc/template-tags.php:53
+msgid "Featured"
+msgstr "Избранная"
+
+#: inc/template-tags.php:33
+msgctxt "post author"
+msgid "by %s"
+msgstr " %s"
+
+#: inc/customizer.php:244
+msgid "Default"
+msgstr "По-умолчанию"
+
+#: inc/customizer.php:146
+msgid "Main Text Color"
+msgstr "Цвет основного текста"
+
+#: header.php:81
+msgid "Menu"
+msgstr "Меню"
+
+#: header.php:29 header.php:42
+msgid "Top Links Menu"
+msgstr "Верхнее меню ссылками"
+
+#: header.php:23
+msgid "Skip to content"
+msgstr "Перейти к содержимому"
+
+#: functions.php:300
+msgid "Page with sidebar"
+msgstr "Страница с областью виджетов"
+
+#: functions.php:261
+msgctxt "Poppins font: on or off"
+msgid "on"
+msgstr "on"
+
+#: functions.php:252
+msgctxt "Playfair Display font: on or off"
+msgid "on"
+msgstr "on"
+
+#: functions.php:187
+msgid "collapse child menu"
+msgstr "свернуть меню"
+
+#: functions.php:186
+msgid "expand child menu"
+msgstr "развернуть меню"
+
+#: functions.php:160
+msgid "Appears in the Home page."
+msgstr "Появляется на главной странице."
+
+#: functions.php:158
+msgid "Front Page Bottom"
+msgstr "Внизу главной страницы"
+
+#: functions.php:151
+msgid "Appears on the Front Page."
+msgstr "Появляется на главной странице."
+
+#: functions.php:149
+msgid "Front Page Top"
+msgstr "Вверху главной страницы"
+
+#: functions.php:140
+msgid "Footer Right"
+msgstr "В футере справа"
+
+#: functions.php:131
+msgid "Footer Center"
+msgstr "В футере по-центру"
+
+#: functions.php:124 functions.php:133 functions.php:142
+msgid "Appears in the footer section of the site."
+msgstr "Появляется в футере сайта."
+
+#: functions.php:122
+msgid "Footer Left"
+msgstr "В футере слева"
+
+#: functions.php:115
+msgid "Add widgets here."
+msgstr "Добавьте виджеты здесь."
+
+#: functions.php:113
+msgid "Sidebar"
+msgstr "Область с виджетами"
+
+#: functions.php:51
+msgid "Footer"
+msgstr "Футер"
+
+#: functions.php:50
+msgid "Header Right"
+msgstr "В шапке сайта справа"
+
+#: functions.php:49
+msgid "Header Left"
+msgstr "В шапке сайта слева"
+
+#: functions.php:48
+msgid "Primary"
+msgstr "Главное"
+
+#: footer.php:31
+msgid "&copy; %1$s All Rights Reserved"
+msgstr "&copy; %1$s Все права защищены"
+
+#: footer.php:18
+msgid "Footer Links Menu"
+msgstr "Меню в футере сайта"
+
+#: comments.php:83
+msgid "Comments are closed."
+msgstr "Комментарии закрыты."
+
+#: comments.php:55 comments.php:75
+msgid "Newer Comments"
+msgstr "Новые комментарии"
+
+#: comments.php:53 comments.php:73
+msgid "Older Comments"
+msgstr "Старые комментарии"
+
+#: comments.php:50 comments.php:70
+msgid "Comment navigation"
+msgstr "Навигация"
+
+#. translators: 1: number of comments, 2: post title
+#: comments.php:35
+msgctxt "comments title"
+msgid "%1$s Thought to &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s Thoughts to &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s мнение к &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s мнения к &ldquo;%2$s&rdquo;"
+msgstr[2] "%1$s мнений к &ldquo;%2$s&rdquo;"
+
+#. translators: %s: post title
+#: comments.php:31
+msgctxt "comments title"
+msgid "One thought to &ldquo;%s&rdquo;"
+msgstr "Одно мнение к &ldquo;%s&rdquo;"
+
+#: 404.php:19
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "Похоже, в этом месте ничего не было найдено. Может быть, попробуйте поискать?"
+
+#: 404.php:16
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "К сожалению! Эта страница не найдена."
+
+#. Author URI of the plugin/theme
+msgid "https://motopress.com/"
+msgstr "https://motopress.com/"
+
+#. Author of the plugin/theme
+msgid "MotoPress"
+msgstr "MotoPress"
+
+#. Theme URI of the plugin/theme
+msgid "https://motopress.com/themes/oceanica/"
+msgstr "https://motopress.com/themes/oceanica/"
